@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image:url("imagens/background-image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 200px;
+    text-align: center;
+    color:white;
+    font-family: 'Spectral', serif;
+}
+
+
+h1{
+    line-height: 120px;
+    font-size: 64px;
+    font-family: 'Beth Ellen', cursive;
+    font-weight: 400;
+}
+h1 span{
+    color:#5EEAD4;
+}
+p{
+    line-height: 30px;
+    font-weight: 500;
+    padding-bottom: 40px;
+
+    font-size:20px;
+}
+a{
+    padding: 16px 32px;
+    color:white;
+}
+.btn-recipes{
+    text-decoration: none;
+    background-color:#5EEAD4;
+    border-radius:10px;
+    color:black;
+    margin-left:15px;
+}
+.btn-learnmore:hover{
+    border-radius:10px;
+    background-color:#5EEAD4;
+    color:black;
+    
+
+}
